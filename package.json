@@ -1,8 +1,10 @@
 {
   "name": "@lavieennoir/test-public-publish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lavieennoir/test-public-publish.git"
