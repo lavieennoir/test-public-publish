@@ -1,0 +1,17 @@
+{
+  "name": "@lavieennoir/test-public-publish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavieennoir/test-public-publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavieennoir/test-public-publish/issues"
+  },
+  "homepage": "https://github.com/lavieennoir/test-public-publish#readme",
+  "description": ""
+}
